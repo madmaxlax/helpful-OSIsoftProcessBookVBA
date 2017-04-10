@@ -1,4 +1,4 @@
-Option Exclicit  
+Option Explicit  
 Public Sub decimals()  
 'set up some vars to be used  
     Dim symb As Symbol  
